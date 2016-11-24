@@ -1,4 +1,4 @@
-ABSTRAK
+***Abstrak***
 
 
 Perkembangan teknologi kini sudah semakin maju, karena dapat mempermudah pengguna dalam pencarian maupun penyampaian informasi. Terutama di kalangan Mahasiswa yang paling banyak penggunanya 
