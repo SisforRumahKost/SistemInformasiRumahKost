@@ -1,9 +1,9 @@
-BAB I
-PENDAHULUAN
-1.1	Latar Belakang
-	Teknologi informasi kini memudahkan banyak orang dalam memperoleh informasi secara online. Contoh salah satunya adalah website yang akan dirancang ini, yang nantinya  dapat mempermudah masyarakat dalam memperoleh informasi tempat kost/kontrakan. Untuk itu diharakan dengan adannya web ini, tidak akan menjadi hal yang sulit lagi dalam mencari tempat untuk kost atau mengontrak.
-1.2	Tujuan
-	Adapun maksud dan tujuan dari pembuatan Sistem informasi  ini adalah :
+# BAB I
+## PENDAHULUAN
+### 1.1	Latar Belakang
+Teknologi informasi kini memudahkan banyak orang dalam memperoleh informasi secara online. Contoh salah satunya adalah website yang akan dirancang ini, yang nantinya  dapat mempermudah masyarakat dalam memperoleh informasi tempat kost/kontrakan. Untuk itu diharakan dengan adannya web ini, tidak akan menjadi hal yang sulit lagi dalam mencari tempat untuk kost atau mengontrak.
+### 1.2	Tujuan
+Adapun maksud dan tujuan dari pembuatan Sistem informasi  ini adalah :
 1.	Memudahkan masyarakat untuk mencari tempat kost/kontrakan.
 2.	Untuk memenuhi salah satu tugas yang diberikan Dosen, yaitu proyek 2 semester 4.
 1.3 	Ruang Lingkup
